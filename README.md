@@ -1,5 +1,5 @@
 ## Application Under Test (AUT)
-Sauce Labs Android Sample App
+Sauce Labs Android Sample App.
 This is a sample test automation framework for Android sauce labs mobile app. 
 Android SauceLabs Mobile app is a sample app built by SauceLabs that allows users to practice mobile automation.
 
@@ -16,7 +16,7 @@ TestNG
 This sample test uses Page Object Model (POM) Design Pattern to design the test.
 
 ## Tests
-Login
-Adding To Cart
-Checking Out
-Logging Out
+- Login
+- Adding To Cart
+- Checking Out
+- Logging Out
